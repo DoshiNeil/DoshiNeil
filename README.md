@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Neil Doshi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1>Hi 👋, I'm Neil Doshi</h1>
+<h3>A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on [Flow Forest](https://github.com/DoshiNeil/flowForest)
 

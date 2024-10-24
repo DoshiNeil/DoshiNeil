@@ -1,9 +1,9 @@
 <h1>Hi 👋, I'm Neil Doshi</h1>
 <h3>A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Flow Forest](https://github.com/DoshiNeil/flowForest)
+- 🔭 I’m currently working on [Flow Forest](https://github.com/DoshiNeil/flowForest). It's google form on steroids.
 
-- 💬 Ask me about **Javascript, Typerscript, React, Nextjs, Nodejs, ExpressJS, Graphql, Prismam, PostgresQL, Nestjs**
+- 💬 Ask me about **Javascript, Typescript, React, Nextjs, Nodejs, ExpressJS, Graphql, Prismam, PostgreSQL, Nestjs**
 
 - 📫 How to reach me **mail.neildoshi@gmail.com**
 
